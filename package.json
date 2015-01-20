@@ -1,0 +1,29 @@
+{
+  "name": "baidu-cdn-data",
+  "version": "0.1.1",
+  "description": "Baidu CDN Data for baidu-cdn",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liangmingyi/baidu-cdn-data.git"
+  },
+  "keywords": [
+    "cdn",
+    "baidu"
+  ],
+  "author": "Mingyi Liang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liangmingyi/baidu-cdn-data/issues"
+  },
+  "homepage": "https://github.com/liangmingyi/baidu-cdn-data",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "grunt": "^0.4.5",
+    "grunt-release": "^0.10.0",
+    "mocha": "^2.1.0"
+  }
+}
