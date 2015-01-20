@@ -1,4 +1,4 @@
-# baidu-cdn-data [![Build Status](ttps://travis-ci.org/liangmingyi/baidu-cdn-data)](https://travis-ci.org/liangmingyi/baidu-cdn-data)
+# baidu-cdn-data [![Build Status](https://travis-ci.org/liangmingyi/baidu-cdn-data.png)](https://travis-ci.org/liangmingyi/baidu-cdn-data)
 
 > [baidustatic](http://cdn.code.baidu.com/) CDN data for [google-cdn](https://github.com/passy/google-cdn).
 

@@ -1,6 +1,6 @@
 {
   "name": "baidu-cdn-data",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Baidu CDN Data for baidu-cdn",
   "main": "index.js",
   "scripts": {
