@@ -49,10 +49,6 @@ var fetchVersions = function (libs) {
       var def = JSON.parse(body);
       var versions = def['versions'];
 
-      if (!versions) {
-        console.log(util.inspect(def));
-      }
-
       var version = {
         'versions': versions,
         'url': '{URL}'
