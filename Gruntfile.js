@@ -15,9 +15,4 @@ module.exports = function (grunt) {
   grunt.registerTask('update', [
     'execute:update'
   ]);
-
-  grunt.registerTask('release', [
-    'execute:update',
-    'release'
-  ]);
 };
